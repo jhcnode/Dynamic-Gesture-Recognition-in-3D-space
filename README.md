@@ -11,6 +11,6 @@
 4. [Unity3D Demo](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/releases/download/1.0/Release.zip)
 
 # Information 
-1. collected gesture data using leap motion
+1. Collected gesture data using leap motion
 2. With main pivot(etc..head direction,front direction), you can use gestures in 3D space.
 3. The demo requires a leap motion

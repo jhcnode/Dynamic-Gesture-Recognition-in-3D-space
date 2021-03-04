@@ -14,3 +14,7 @@
 1. Collected gesture data using leap motion
 2. With main pivot(etc..head direction,front direction), you can use gestures in 3D space.
 3. The demo requires a leap motion
+
+## Reference
+1. Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.
+2. Wobbrock, Jacob O., Andrew D. Wilson, and Yang Li. "Gestures without libraries, toolkits or training: a $1 recognizer for user interface prototypes." Proceedings of the 20th annual ACM symposium on User interface software and technology. 2007.

@@ -19,8 +19,7 @@
 Tensorflow(==1.4.0)  
 Unity3D(>=2018)  
 
-## [Train](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/MLP%2BSelu%2B5%20Hidden%20Layer.ipynb
-)
+## [Train](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/MLP%2BSelu%2B5%20Hidden%20Layer.ipynb)
   
 ## Freeze
 1. [Edit a model](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/model_trainable(custom_only_model_save).ipynb)  

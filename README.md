@@ -21,7 +21,7 @@ Unity3D(>=2018)
 
 ## Model Train & Export(Freeze)
 
-### [Train a model]
+### Train a model
 1. [Train](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/MLP%2BSelu%2B5%20Hidden%20Layer.ipynb)
   
 ### Export(Freeze)

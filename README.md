@@ -16,8 +16,8 @@
 3. The demo requires a leap motion
 
 ## Setup
-Tensorflow(==1.4.0)
-Unity3D(>=2018)
+Tensorflow(==1.4.0)  
+Unity3D(>=2018)  
 
 ## Reference
 1. [Chae, Ji Hun, et al. "Deep Learning Based 3D Gesture Recognition Using Spatio-Temporal Normalization." Journal of Korea Multimedia Society 21.5 (2018): 626-637.](https://www.koreascience.or.kr/article/JAKO201818564288222.page)

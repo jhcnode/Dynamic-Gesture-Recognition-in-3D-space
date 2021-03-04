@@ -22,7 +22,7 @@ Unity3D(>=2018)
 ## [Train](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/MLP%2BSelu%2B5%20Hidden%20Layer.ipynb)
   
 ## Freeze
-1. [epxort a model](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/model_trainable(custom_only_model_save).ipynb)  
+1. [Epxort a model](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/model_trainable(custom_only_model_save).ipynb)  
 2. [Create *.pb file](https://github.com/jhcnode/Dynamic-Gesture-Recognition-in-3D-space/blob/main/python/freeze_graph.ipynb)  
 
 ## Reference

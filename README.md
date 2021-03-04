@@ -2,7 +2,7 @@
 21 Class Dynamic Gesture Recognition in 3D space, Leap Motion, VR
 
 # Screenshot([video link1](https://youtu.be/gDamQfYpSVw), [video link2](https://youtu.be/Xl6bw05PeW4))
-![capture](https://user-images.githubusercontent.com/61224394/109899479-48705180-7cd9-11eb-92ba-ec07229e0958.gif)
+![capture](https://user-images.githubusercontent.com/61224394/109899673-8ec5b080-7cd9-11eb-9e9b-0fe4d02dd13b.gif)
 
 # Features
 1. Dynamic Gesture Recognition in 3D space

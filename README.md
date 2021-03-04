@@ -15,7 +15,7 @@
 2. With main pivot(etc..head direction,front direction), you can use gestures in 3D space.
 3. The demo requires a leap motion
 
-## Requirements
+## Environments
 Tensorflow(==1.4.0)  
 Unity3D(>=2018)  
 

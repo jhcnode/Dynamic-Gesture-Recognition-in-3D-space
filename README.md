@@ -16,7 +16,7 @@
 3. The demo requires a leap motion
 
 ## Environments
-Tensorflow(<2.0)  
+Tensorflow-gpu(<2.0)  
 Unity3D(>=2018)  
 
 ## Model Train & Export(Freeze)

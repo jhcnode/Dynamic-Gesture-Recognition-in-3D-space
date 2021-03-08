@@ -19,6 +19,10 @@
 Tensorflow-gpu(<2.0)  
 Unity3D(>=2018)  
 
+
+## Setup
+> pip install requirements.txt  
+
 ## Model Train & Export(Freeze)
 
 ### Train model
